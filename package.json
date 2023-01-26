@@ -1,0 +1,23 @@
+{
+  "name": "config",
+  "version": "0.0.1",
+  "description": "Orientação Objetos JS",
+  "main": "User.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRLRSX/OO-JS-Alura.git"
+  },
+  "author": "'lucas rocha dos santos'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MRLRSX/OO-JS-Alura/issues"
+  },
+  "homepage": "https://github.com/MRLRSX/OO-JS-Alura#readme",
+  "dependencies": {
+    "chalk": "5.2.0"
+  }
+}
